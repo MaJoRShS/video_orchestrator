@@ -1,0 +1,17 @@
+torch
+torchaudio
+transformers
+opencv-python
+librosa
+sqlalchemy
+whisper
+moviepy
+scikit-learn
+numpy
+pandas
+sqlite3
+pathlib
+argparse
+logging
+json
+datetime
